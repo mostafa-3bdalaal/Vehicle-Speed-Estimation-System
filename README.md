@@ -11,3 +11,6 @@ python "file path.py" --roboflow_api_key "private robowflow api key" --source_vi
 output video: https://github.com/mostafa-3bdalaal/Vehicle-Speed-Estimation-System/releases/download/v1.0/output.mp4
 
 
+<video width="640" controls>
+  <source src="https://github.com/mostafa-3bdalaal/Vehicle-Speed-Estimation-System/releases/download/v1.0/demo.mp4" type="video/mp4">
+</video>
